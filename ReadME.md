@@ -16,6 +16,13 @@ After cloning GithubSearch, Install GithubSearch with npm
   npm install  
   cd GithubSearch
 ```
+## Technologies Used
+* HTML 
+* CSS
+* Bootstrap
+* Angular
+* TypeScript
+* JavaScript
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your environment.ts file
