@@ -1,21 +1,21 @@
 
 # GithubSearch
+#### Lona Wanjiku
 
+# Table of Content
++ [Description](#Description)
++ [Design](#Design)
++ [Technology Used](#technologies-used)
++ [Installation]
++ [Requirements]
++ [Reference](#reference)
++ [Licence](#licence)
++ [Authors Info](#author-Info)
+
+
+## Description
 An angular project that consumes the github API to search users as well as their github repositories
 
-## Authors
-
-- [@lornamwaura](https://www.github.com/Lorna-Mwaura)
-
-
-## Installation
-
-After cloning GithubSearch, Install GithubSearch with npm 
-
-```bash
-  npm install  
-  cd GithubSearch
-```
 ## Technologies Used
 * HTML 
 * CSS
@@ -23,6 +23,19 @@ After cloning GithubSearch, Install GithubSearch with npm
 * Angular
 * TypeScript
 * JavaScript
+## Installation
+
+After cloning GithubSearch, Install GithubSearch with npm 
+
+```bash
+  npm install  
+  cd GithubSearch
+
+```
+### Requirements
+* Make sure you have access to a browser
+* Click here to access the project or click the link in the about section
+(lorna-mwaura.github.io/githubsearch/)
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your environment.ts file
@@ -33,5 +46,9 @@ To run this project, you will need to add the following environment variables to
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## Author
+
+  Lorna Wanjiku
+- [lornamwaura99@gmail.com](https://www.github.com/Lorna-Mwaura)
 
 
