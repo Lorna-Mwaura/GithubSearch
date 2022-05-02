@@ -45,7 +45,7 @@ To run this project, you will need to add the following environment variables to
 
 ## Author
 
-  Lorna Wanjiku
-- [lornamwaura99@gmail.com](https://www.github.com/Lorna-Mwaura)
+  ##### Lona Mwaura
+- [lornamwaura](https://www.github.com/Lorna-Mwaura)
 
 
